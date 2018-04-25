@@ -1,0 +1,111 @@
+Extrapolation and learning equations
+Effectiveness of Transfer Learning in EHR data
+Intelligent synapses for multi-task and transfer learning
+Unsupervised and Efficient Neural Graph Model with Distributed Representations
+Accelerating SGD for Distributed Deep-Learning Using an Approximted Hessian Matrix
+Accelerating Eulerian Fluid Simulation With Convolutional Networks
+Forced to Learn: Discovering Disentangled Representations Without Exhaustive Labels
+Dataset Augmentation in Feature Space
+Learning Algorithms for Active Learning
+Reinterpreting Importance-Weighted Autoencoders
+Robustness to Adversarial Examples through an Ensemble of Specialists
+On Hyperparameter Optimization in Learning Systems
+Recurrent Normalization Propagation
+Joint Training of Ratings and Reviews with Recurrent Recommender Networks
+Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses
+Joint Embeddings of Scene Graphs and Images
+Unseen Style Transfer Based on a Conditional Fast Style Transfer Network
+Audio Super-Resolution using Neural Networks
+Semantic embeddings for program behaviour patterns
+De novo drug design with deep generative models : an empirical study
+Memory Matching Networks for Genomic Sequence Classification
+Char2Wav: End-to-End Speech Synthesis
+Fast Chirplet Transform Injects Priors in Deep Learning of Animal Calls and Speech
+Weight-averaged consistency targets improve semi-supervised deep learning results
+Particle Value Functions
+Out-of-class novelty generation: an experimental foundation
+Performance guarantees for transferring representations
+Generative Adversarial Learning of Markov Chains
+Short and Deep: Sketching and Neural Networks
+Understanding intermediate layers using linear classifier probes
+Symmetry-Breaking Convergence Analysis of Certain Two-layered Neural Networks with ReLU nonl rity
+Neural Combinatorial Optimization with Reinforcement Learning
+Tactics of Adversarial Attacks on Deep Reinforcement Learning Agents
+Adversarial Discriminative Domain Adaptation (workshop extended abstract)
+Efficient Sparse-Winograd Convolutional Neural Networks
+Neural Expectation Maximization
+Programming With a Differentiable Forth Interpreter
+Unsupervised Feature Learning for Audio Analysis
+Neural Functional Programming
+A Smooth Optimisation Perspective on Training Feedforward Neural Networks
+Synthetic Gradient Methods with Virtual Forward-Backward Networks
+Explaining the Learning Dynamics of Direct Feedback Alignment
+Training a Subsampling Mechanism in Expectation
+Deep Kernel Machines via the Kernel Reparametrization Trick
+Encoding and Decoding Representations with Sum- and Max-Product Networks
+Embracing Data Abundance
+Variational Intrinsic Control
+Fast Adaptation in Generative Models with Generative Matching Networks
+Efficient variational Bayesian neural network ensembles for outlier detection
+Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols
+Adaptive Feature Abstraction for Translating Video to Language
+Delving into adversarial attacks on deep policies
+Tuning Recurrent Neural Networks with Reinforcement Learning
+DeepMask: Masking DNN Models for robustness against adversarial samples
+Restricted Boltzmann Machines provide an accurate metric for retinal responses to visual stimuli
+Lifelong Perceptual Programming By Example
+Neu0
+Dance Dance Convolution
+Bit-Pragmatic Deep Neural Network Computing
+On Improving the Numerical Stability of Winograd Convolutions
+Fast Generation for Convolutional Autoregressive Models
+THE PREIMAGE OF RECTIFIER NETWORK ACTIVITIES
+Training Triplet Networks with GAN
+On Robust Concepts and Small Neural Nets
+Pl@ntNet app in the era of deep learning
+Exponential Machines
+Online Multi-Task Learning Using Biased Sampling
+Online Structure Learning for Sum-Product Networks with Gaussian Leaves
+A Theoretical Framework for Robustness of (Deep) Classifiers against Adversarial Samples
+Compositional Kernel Machines
+Loss is its own Reward: Self-Supervision for Reinforcement Learning
+REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models
+Precise Recovery of Latent Vectors from Generative Adversarial Networks
+Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+NEUROGENESIS-INSPIRED DICTIONARY LEARNING: ONLINE MODEL ADAPTION IN A CHANGING WORLD
+The High-Dimensional Geometry of Binary Neural Networks
+Discovering objects and their relations from entangled scene representations
+A Differentiable Physics Engine for Deep Learning in Robotics
+Automated Generation of Multilingual Clusters for the Evaluation of Distributed Representations
+Development of JavaScript-based deep learning platform and application to distributed training
+Factorization tricks for LSTM networks
+Shake-Shake regularization of 3-branch residual networks
+Trace Norm Regularised Deep Multi-Task Learning
+Deep Learning with Sets and Point Clouds
+Deep Nets Don't Learn via Memorization
+Multiplicative LSTM for sequence modelling
+Learning to Discover Sparse Graphical Models
+Revisiting Batch Normalization For Practical Domain Adaptation
+Early Methods for Detecting Adversarial Images and a Colorful Saliency Map
+Natural Language Generation in Dialogue using Lexicalized and Delexicalized Data
+Coupling Distributed and Symbolic Execution for Natural Language Queries
+Adversarial Examples for Semantic Image Segmentation
+RenderGAN: Generating Realistic Labeled Data
+Song From PI: A Musically Plausible Network for Pop Music Generation
+Charged Point Normalization: An Efficient Solution to the Saddle Point Problem
+Towards “AlphaChem”: Chemical Synthesis Planning with Tree Search and Deep Neural Network cies
+CommAI: Evaluating the first steps towards a useful general AI
+Joint Multimodal Learning with Deep Generative Models
+Transferring Knowledge to Smaller Network with Class-Distance Loss
+Regularizing Neural Networks by Penalizing Confident Output Distributions
+Adversarial Attacks on Neural Network Policies
+Generalizable Features From Unsupervised Learning
+Compact Embedding of Binary-coded Inputs and Outputs using Bloom Filters
+Semi-supervised deep learning by metric embedding
+Changing Model Behavior at Test-time Using Reinforcement Learning
+Variational Reference Priors
+Gated Multimodal Units for Information Fusion
+Playing SNES in the Retro Learning Environment
+Unsupervised Perceptual Rewards for Imitation Learning
+Perception Updating Networks: On architectural constraints for interpretable video generative  ls
+Adversarial examples in the physical world
